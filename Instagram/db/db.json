@@ -1,0 +1,107 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "travel_with_anu",
+      "profilePic": "https://randomuser.me/api/portraits/women/12.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "caption": "Exploring the beauty of the mountains ⛰️✨",
+      "likes": 342,
+      "timeAgo": "2h",
+      "comments": [
+        {
+          "username": "nature_lover",
+          "text": "Wow! So beautiful ❤️"
+        },
+        {
+          "username": "hiker_boy",
+          "text": "This is my dream spot!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "foodie_john",
+      "profilePic": "https://randomuser.me/api/portraits/men/5.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "caption": "Street food vibes 🌮🔥",
+      "likes": 129,
+      "timeAgo": "5h",
+      "comments": [
+        {
+          "username": "chef_life",
+          "text": "Looks delicious 😍"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "artsy_girl",
+      "profilePic": "https://randomuser.me/api/portraits/women/18.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1511765224389-37f0e77cf0eb",
+      "caption": "My latest painting 🎨💖",
+      "likes": 215,
+      "timeAgo": "1d",
+      "comments": [
+        {
+          "username": "color_addict",
+          "text": "Love the colors!"
+        },
+        {
+          "username": "gallery_owner",
+          "text": "We need this in our exhibition!"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "travel_with_jeni",
+    "profilePic": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "travel_with_anu",
+      "profilePic": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": "2",
+      "username": "foodie_john",
+      "profilePic": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "3",
+      "username": "artsy_girl",
+      "profilePic": "https://randomuser.me/api/portraits/women/18.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "travel_with_anu",
+      "profilePic": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": "2",
+      "username": "foodie_john",
+      "profilePic": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "3",
+      "username": "artsy_girl",
+      "profilePic": "https://randomuser.me/api/portraits/women/18.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "3",
+      "username": "artsy_girl",
+      "profilePic": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    {
+      "id": "1",
+      "username": "travel_with_anu"
+    }
+  ]
+}
